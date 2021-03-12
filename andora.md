@@ -8,4 +8,4 @@
 
 ## Deities
 
-[[deities]]
+[Deities](deities.md)
